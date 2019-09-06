@@ -1,7 +1,7 @@
 'use strict';
 
 const expect = require('chai').expect;
-const starWars = require('./index');
+import starWars from './index';
 
 describe('starwar-names', function(){
     it('should have a list of all available names', function(){
