@@ -11,8 +11,8 @@ notifications:
 # before_script:
 #   - npm prune
 script:
-  - npm run test
-  - npm run build
+  # - npm run test
+  # - npm run build
   #- npm run validate
   # - npm run cover
   # - npm run check-coverage
